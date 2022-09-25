@@ -5,7 +5,7 @@ Original Work   : Simon Jansen ( http://www.asciimation.co.nz/ )
 
 Telnetification : Sten Spans ( sten@blinkenlights.nl )
 
-Terminal Tricks : Mike Edwards ( [pf-asciimation@mirkwood.net]() )
+Terminal Tricks : Mike Edwards ( pf-asciimation@mirkwood.net )
 
 Star Wars Icon	: Sensible World ( https://icon-icons.com/users/TTIQFLxRVkBQ8aKKlSTRZ/icon-sets/ )
 
