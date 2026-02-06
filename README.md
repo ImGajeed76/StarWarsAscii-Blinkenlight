@@ -12,3 +12,6 @@ Star Wars Icon	: Sensible World ( https://icon-icons.com/users/TTIQFLxRVkBQ8aKKl
 ### Setup:
 Just download the .zip, extract it and run the `(run) Star Wars IV - Ascii.lnk` file.
 Enjoy!
+
+---
+Built with ❤️ by [Oliver Seifert](https://oseifert.ch)
